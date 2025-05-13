@@ -60,6 +60,9 @@
     "list": "cpp",
     "unordered_map": "cpp",
     "xhash": "cpp",
-    "xtree": "cpp"
+    "xtree": "cpp",
+    "algorithm": "cpp",
+    "optional": "cpp",
+    "set": "cpp"
   }
 }
