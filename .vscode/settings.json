@@ -63,6 +63,7 @@
     "xtree": "cpp",
     "algorithm": "cpp",
     "optional": "cpp",
-    "set": "cpp"
+    "set": "cpp",
+    "unordered_set": "cpp"
   }
 }
